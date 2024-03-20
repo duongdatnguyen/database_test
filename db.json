@@ -21,5 +21,25 @@
         "gender": "Male",
         "email": "michael.johnson@example.com"
     }
+],
+  "balances":[
+  {
+    "balances": 2000,
+     "currency": "VND",
+    "userId": 3,
+    "type": "personal"
+  },
+  {
+    "balances":1000,
+    "currency": "VND",
+    "userId": 2,
+    "type": "business"
+  },
+  {
+    "balances":1000,
+    "currency": "VND",
+    "userId": 1,
+    "type": "savings"
+  }
 ]
 }
