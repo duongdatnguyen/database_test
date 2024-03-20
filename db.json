@@ -1,6 +1,5 @@
 {
-  "code":200,
-  "data":[
+  "users":[
     {
         "userid": 1,
         "firstname": "John",
