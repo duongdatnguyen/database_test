@@ -1,0 +1,26 @@
+{
+  "code":200,
+  "data":[
+    {
+        "userid": 1,
+        "firstname": "John",
+        "lastname": "Doe",
+        "gender": "Male",
+        "email": "john.doe@example.com"
+    },
+    {
+        "userid": 2,
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "gender": "Female",
+        "email": "jane.smith@example.com"
+    },
+    {
+        "userid": 3,
+        "firstname": "Michael",
+        "lastname": "Johnson",
+        "gender": "Male",
+        "email": "michael.johnson@example.com"
+    }
+]
+}
