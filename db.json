@@ -24,18 +24,21 @@
 ],
   "balances":[
   {
+    "id":1,
     "balances": 2000,
      "currency": "VND",
     "userId": 3,
     "type": "personal"
   },
   {
+    "id":2,
     "balances":1000,
     "currency": "VND",
     "userId": 2,
     "type": "business"
   },
   {
+    "id":3,
     "balances":1000,
     "currency": "VND",
     "userId": 1,
