@@ -32,7 +32,7 @@
   },
   {
     "id":2,
-    "balances":1000,
+    "balances":0,
     "currency": "VND",
     "userId": 2,
     "type": "business"
