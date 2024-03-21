@@ -47,22 +47,25 @@
 ],
   "balanceHistories": [
   {
-    balanceId: "3,
-    totalAmount: 250.00,
-    description: "Salary deposit",
-    type: "Deposit"
-  },
-  {
-    balanceId: 3,
-    totalAmount: 50.75,
-    description: "ATM withdrawal",
-    type: "Withdrawal"
-  },
-  {
-    balanceId: 3,
-    totalAmount: 10.00,
-    description: "Bill payment to City Utilities",
-    type: "TransferOut"
-  }
+      "id":1,
+      "balanceId": 1,
+      "totalAmount": 250.00,
+      "description": "Salary deposit",
+      "type": "Deposit"
+    },
+    {
+      "id":2,
+      "balanceId":1",
+      "totalAmount": 50.75,
+      "description": "ATM withdrawal",
+      "type": "Withdrawal"
+    },
+    {
+      "id":3,
+      "balanceId":1,
+      "totalAmount": 10.00,
+      "description": "Bill payment to City Utilities",
+      "type": "TransferOut"
+    }
 ]
 }
