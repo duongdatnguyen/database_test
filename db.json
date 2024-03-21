@@ -44,5 +44,25 @@
     "userId": 1,
     "type": "savings"
   }
+],
+  "balanceHistories": [
+  {
+    balanceId: "3,
+    totalAmount: 250.00,
+    description: "Salary deposit",
+    type: "Deposit"
+  },
+  {
+    balanceId: 3,
+    totalAmount: 50.75,
+    description: "ATM withdrawal",
+    type: "Withdrawal"
+  },
+  {
+    balanceId: 3,
+    totalAmount: 10.00,
+    description: "Bill payment to City Utilities",
+    type: "TransferOut"
+  }
 ]
 }
