@@ -55,7 +55,7 @@
     },
     {
       "id":2,
-      "balanceId":1",
+      "balanceId":1,
       "totalAmount": 50.75,
       "description": "ATM withdrawal",
       "type": "Withdrawal"
