@@ -67,5 +67,42 @@
       "description": "Bill payment to City Utilities",
       "type": "TransferOut"
     }
-]
+],
+  "responses": [
+  {
+      "responseCode":"00",
+      "responseMessage": "successfully",
+      "responseTime": "2023-03-22T13:58:45.054+07:00",
+      "data":{
+      "cifsID": "CusHDBank12345"
+      }
+      
+    },
+    {
+      "responseCode":"01",
+      "responseMessage": "successfully",
+      "responseTime": "2023-03-22T13:58:45.054+07:00",
+      "data": null
+    }
+],
+  "cifs":[
+    {
+  "clientNumber": "CLNT1234",
+  "clientShortName": "ABC Corp",
+  "clientName": "ABC Corporation",
+  "idtype": "Passport",
+  "idnumber": "AB123456",
+  "locationCountry": "United States",
+  "countryOfCitizenship": "United States",
+  "state": "California",
+  "countryOfRisk": "United States",
+  "contactType": "Corporate",
+  "clientInd": "Yes",
+  "contactAddress": "123 Main St, Los Angeles, CA",
+  "accountExec": "John Doe",
+  "clientOpened": "2023-05-15",
+  "clientType": "Corporate",
+  "majorCategory": "Technology"
+}
+  ]
 }
