@@ -87,6 +87,7 @@
 ],
   "cifs":[
     {
+      "id":1,
   "clientNumber": "CLNT1234",
   "clientShortName": "ABC Corp",
   "clientName": "ABC Corporation",
